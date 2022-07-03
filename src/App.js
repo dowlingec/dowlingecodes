@@ -10,6 +10,7 @@ import Contact from "./components/Contact"
 function App() {
   return (
     <div className="app-whole">
+      {/* <img src="" style={{ height: `100%`, marginLeft: `-2%`}}></img> */}
       <NavBar />
       <Switch>
         <Route exact path="/about">
