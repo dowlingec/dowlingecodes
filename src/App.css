@@ -1,11 +1,11 @@
 body {
   margin: 0;
-  background: blueviolet;
-  /* background: rgb(12,8,94);
-  background: linear-gradient(180deg, rgb(6, 7, 55) 0%, rgb(43, 13, 83) 98%) no-repeat center fixed; */
+  /* background: blueviolet; */
+  /* /* background: rgb(12,8,94); */
+  background: linear-gradient(180deg, rgb(6, 7, 55) 0%, rgb(43, 13, 83) 98%) no-repeat center fixed;
   background-size: cover;
-  font-family: sans-serif;
-  font: white;
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
 }
 
 

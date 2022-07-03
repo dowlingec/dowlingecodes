@@ -10,7 +10,6 @@ import Contact from "./components/Contact"
 function App() {
   return (
     <div className="app-whole">
-      <h1>HELLO WORLD</h1>
       <NavBar />
       <Switch>
         <Route exact path="/about">
