@@ -1,4 +1,5 @@
-import './App.css';
+// import './App.css';
+import './alt.css';
 import { Route, Switch } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import Home from "./components/Home"

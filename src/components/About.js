@@ -43,8 +43,8 @@ function About() {
     return(
         <div className="about">
             {/* <h1>About</h1> */}
-            <p>Experienced in Ruby on Rails, React and JavaScript based programming with previous training in audio engineering and abundant experience in retail management. My years in retail were integral to my professional growth - I worked with stock logistics, customer satisfaction, visual merchandising, working to deadlines and communication motivating a team. My personal approach to any task is to always be inquisitive, unafraid to ask questions and open to new concepts.</p>
-            <button className="about-expand">Read more...</button>
+            <p>Creatively inspired by subculture and experienced in Ruby on Rails, React.js and JavaScript based programming Liz Dowling marries technical and design skills in a style uniquely her own.</p>
+            {/* <button className="about-expand">Read more...</button> */}
         </div>
     )
 }

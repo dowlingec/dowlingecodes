@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    /* background: blueviolet; */
+    /* /* background: rgb(12,8,94); */
+    background: #CCC;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    width: 100%;
+    height: 100%;
+  }
+   /* #663399 try dis purple */
+  #root {
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .app-whole{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    display: flexbox;
+    justify-content: space-evenly;
+  }
+  
+  .nav-bar {
+    /* display: flexbox; */
+    justify-content: space-evenly;
+    width: 100%
+  }
+  
+  .home-whole {
+    height: 100%;
+    width: 100%;
+    /* border: solid 12px black; */
+    text-align: center;
+    margin-top: 5%;
+  }
+  
+  
+  h1 {
+    font-size: 10em;
+    margin: 0;
+    /* font-weight: 100; */
+    text-shadow: 8px 8px 3px rgb(0, 0, 0);
+  }
+  
+  h2 {
+    font-size: 9em;
+    margin: 0;
+  }
+  
+  h3 {
+    font-size: 8em;
+    margin: 0;
+    font-style: italic;
+    text-shadow: 8px 8px 3px black;
+  }
+  
+  h4 {
+    font-size: 7.5em;
+    margin: 0;
+  }
+  
+  h5 {
+    font-size: 7em;
+    margin: 0;
+  }
+  h6 {
+    font-size: 6em;
+    margin: 0;
+  }
+  
+  i:hover {
+    text-shadow: 8px 8px 3px rgb(148, 16, 104);
+  }
+  
+  /* .about {
+    
+  } */
+  .about p {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 3em;
+    text-align: center;
+  }
