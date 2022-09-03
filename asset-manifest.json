@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dowlingecodes/static/css/main.f0248c72.css",
+    "main.js": "/dowlingecodes/static/js/main.c804eb09.js",
+    "static/js/787.9d4182eb.chunk.js": "/dowlingecodes/static/js/787.9d4182eb.chunk.js",
+    "index.html": "/dowlingecodes/index.html",
+    "main.f0248c72.css.map": "/dowlingecodes/static/css/main.f0248c72.css.map",
+    "main.c804eb09.js.map": "/dowlingecodes/static/js/main.c804eb09.js.map",
+    "787.9d4182eb.chunk.js.map": "/dowlingecodes/static/js/787.9d4182eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0248c72.css",
+    "static/js/main.c804eb09.js"
+  ]
+}
