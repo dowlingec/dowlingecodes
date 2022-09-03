@@ -23,7 +23,7 @@ function App() {
         <Route exact path="/portfolio">
           <Portfolio />
         </Route>
-        <Route exact path="/">
+        <Route exact path="/dowlingecodes">
           <Home />
         </Route>
       </Switch>
