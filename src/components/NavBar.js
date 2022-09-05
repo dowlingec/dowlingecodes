@@ -29,7 +29,8 @@ function NavBar() {
                 <NavLink activeClassName="active" to="/contact" exact style={linkStyles} activeStyle={{ textShadow: "1.5px 1.5px 1.5px white"}}>
                 <i class="fa-solid fa-address-card"></i> Contact
                 </NavLink>
-                <hr></hr>
+                <a href="https://docs.google.com/document/d/1iB2wZfiEI73TRKqixvNwM-io5t019rjMuoJJRYKSEoA/edit?usp=sharing" activeClassName="active" style={linkStyles} activeStyle={{ textShadow: "1.5px 1.5px 1.5px white"}} target="_blank"> <i class="fa-solid fa-file-arrow-down"></i> Resume</a>
+                {/* <hr></hr> */}
         </div>)
 }
 

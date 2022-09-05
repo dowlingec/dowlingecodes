@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background: #9999CC;
+  background: #CC99FF;
   /* /* background: rgb(12,8,94); */
   /* background: linear-gradient(180deg, rgb(6, 7, 55) 0%, rgb(43, 13, 83) 98%) no-repeat center fixed; */
   background-size: cover;
@@ -27,7 +27,10 @@ body {
 .nav-bar {
   /* display: flexbox; */
   justify-content: space-evenly;
-  width: 100%
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 0;
 }
 
 .home-whole {
@@ -43,7 +46,7 @@ h1 {
   font-size: 10em;
   margin: 0;
   /* font-weight: 100; */
-  text-shadow: 8px 8px 3px rgb(255, 255, 255);
+  /* text-shadow: 8px 8px 3px rgb(255, 255, 255); */
 }
 
 h2 {
@@ -55,7 +58,7 @@ h3 {
   font-size: 8em;
   margin: 0;
   font-style: italic;
-  text-shadow: 8px 8px 3px white;
+  /* text-shadow: 8px 8px 3px white; */
 }
 
 h4 {
@@ -73,7 +76,7 @@ h6 {
 }
 
 i:hover {
-  text-shadow: 8px 8px 3px rgb(255, 255, 255);
+  text-shadow: 1.5px 1.5px 1.5px rgb(255, 255, 255);
 }
 
 /* .about {
