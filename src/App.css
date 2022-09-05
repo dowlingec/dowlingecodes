@@ -76,7 +76,7 @@ h6 {
 }
 
 i:hover {
-  text-shadow: 1.5px 1.5px 1.5px rgb(255, 255, 255);
+  text-shadow: 2px 2px 5px whitesmoke;
 }
 
 /* .about {
