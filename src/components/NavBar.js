@@ -9,7 +9,7 @@ function NavBar() {
         // background: "blue",
         textDecoration: "none",
         // textShadow: "3px 3px 3px #fff",
-        color: "black",
+        color: "#333",
         fontSize: "2em",
         textSizeAdjust: "auto"
       };
