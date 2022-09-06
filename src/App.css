@@ -1,8 +1,6 @@
 body {
   margin: 0;
   background: #CC99FF;
-  /* /* background: rgb(12,8,94); */
-  /* background: linear-gradient(180deg, rgb(6, 7, 55) 0%, rgb(43, 13, 83) 98%) no-repeat center fixed; */
   background-size: cover;
   font-family: 'Josefin Sans', sans-serif;
   color: #333;
@@ -25,25 +23,25 @@ body {
 }
 
 .nav-bar {
-  /* display: flexbox; */
   justify-content: space-evenly;
   width: 100%;
   margin-top: 5px;
   margin-bottom: 5px;
   padding: 0;
   opacity: 0;
-  /* display: block; */
 }
 .nav-bar:hover {
-  /* background-color: aquamarine; */
   opacity: 1;
-  /* display: flex; */
+  transition: all .5s ease-in-out;
+}
+ 
+ .nav-bar:target {
+  height: auto;
 }
 
 .home-whole {
   height: 100%;
   width: 100%;
-  /* border: solid 12px #666; */
   text-align: center;
   margin-top: 5%;
 }
@@ -52,8 +50,6 @@ body {
 h1 {
   font-size: 10em;
   margin: 0;
-  /* font-weight: 100; */
-  /* text-shadow: 8px 8px 3px rgb(255, 255, 255); */
 }
 
 h2 {
@@ -65,7 +61,6 @@ h3 {
   font-size: 8em;
   margin: 0;
   font-style: italic;
-  /* text-shadow: 8px 8px 3px white; */
 }
 
 h4 {
