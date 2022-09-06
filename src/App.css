@@ -95,6 +95,9 @@ i:hover {
   text-align: center;
 }
 
+.project {
+  width: 25%;
+}
 /* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

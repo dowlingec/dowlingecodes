@@ -1,7 +1,11 @@
 function Portfolio() {
+  const projects = {
+
+  }
   return(
     <div>
-        <h1>Portfolio</h1>
+        <h1>Loading projects...</h1>
+
     </div>
   )  
 }
