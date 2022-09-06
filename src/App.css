@@ -31,6 +31,13 @@ body {
   margin-top: 5px;
   margin-bottom: 5px;
   padding: 0;
+  opacity: 0;
+  /* display: block; */
+}
+.nav-bar:hover {
+  /* background-color: aquamarine; */
+  opacity: 1;
+  /* display: flex; */
 }
 
 .home-whole {
@@ -79,9 +86,13 @@ i:hover {
   text-shadow: 2px 2px 5px whitesmoke;
 }
 
-/* .about {
-  
-} */
+.about {
+  margin-left: 10%;
+  margin-right: 10%;
+  background: whitesmoke;
+  border-radius: 10px;
+  background:rgba(255, 255, 255, 0.2);
+}
 .about p {
   margin-left: 5%;
   margin-right: 5%;
@@ -98,7 +109,7 @@ i:hover {
   }
 } */
 a {
-  color: white;
+  color: whitesmoke;
 }
 
 .contact-whole {
