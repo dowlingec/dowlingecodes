@@ -7,6 +7,7 @@ function Contact() {
             {/* <i class="fa-brands fa-linkedin"></i> */}
             <div><a href="https://www.linkedin.com/in/dowlingec/" target="_blank"><h1><i class="fa-brands fa-linkedin-in"></i></h1></a></div>
             <div><h1><i class="fa-solid fa-envelope-open-text"></i></h1></div>
+            <a class="twitter-timeline" data-width="300" data-height="600" data-theme="dark" href="https://twitter.com/dowlingecCodes?ref_src=twsrc%5Etfw">Tweets by dowlingecCodes</a> 
         </div>
     )
 }
