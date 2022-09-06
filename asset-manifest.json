@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dowlingecodes/static/css/main.b4e94c42.css",
-    "main.js": "/dowlingecodes/static/js/main.05a69cf5.js",
+    "main.css": "/dowlingecodes/static/css/main.179f681c.css",
+    "main.js": "/dowlingecodes/static/js/main.e6c9258f.js",
     "static/js/787.9d4182eb.chunk.js": "/dowlingecodes/static/js/787.9d4182eb.chunk.js",
     "index.html": "/dowlingecodes/index.html",
-    "main.b4e94c42.css.map": "/dowlingecodes/static/css/main.b4e94c42.css.map",
-    "main.05a69cf5.js.map": "/dowlingecodes/static/js/main.05a69cf5.js.map",
+    "main.179f681c.css.map": "/dowlingecodes/static/css/main.179f681c.css.map",
+    "main.e6c9258f.js.map": "/dowlingecodes/static/js/main.e6c9258f.js.map",
     "787.9d4182eb.chunk.js.map": "/dowlingecodes/static/js/787.9d4182eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4e94c42.css",
-    "static/js/main.05a69cf5.js"
+    "static/css/main.179f681c.css",
+    "static/js/main.e6c9258f.js"
   ]
 }
